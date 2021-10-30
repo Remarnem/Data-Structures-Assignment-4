@@ -3,4 +3,8 @@ project(Assignment_4)
 
 set(CMAKE_CXX_STANDARD 14)
 
-add_executable(Assignment_4 main.cpp Stack.h Queue.h)
+add_executable(CountTheOnes CountTheOnes.cpp )
+add_executable(QueueTest TestCaseQueue.cpp Queue.h)
+add_executable(StackTest TestCaseStack.cpp Stack.h)
+add_executable(RecursiveVectorSearch RecursiveVectorSearch.cpp)
+add_executable(UpdownRecursion UpDownRecursion.cpp)
