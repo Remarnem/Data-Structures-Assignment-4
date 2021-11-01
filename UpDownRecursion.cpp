@@ -1,4 +1,4 @@
-// RecursiveVectorSearch.cpp
+// UpDownRecursion.cpp
 // Joshua Steege
 // Section 2
 // Last modified: 10/29/2021

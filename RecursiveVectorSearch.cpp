@@ -11,11 +11,11 @@ std::vector<int> getNegative(std::vector<int> input);
 int main() {
     // Creating vector
     std::vector<int> aVector;
-    aVector.push_back(17);
-    aVector.push_back(-11);
-    aVector.push_back(5);
-    aVector.push_back(7);
-    aVector.push_back(-4);
+    aVector.push_back(-5);
+    aVector.push_back(-7);
+    aVector.push_back(0);
+    aVector.push_back(1);
+    aVector.push_back(-15);
 
     // Printing vector
     std::cout << "Original vector" << std::endl;
